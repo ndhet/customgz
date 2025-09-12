@@ -7,19 +7,19 @@
 Download file Installernya
 
 ```jsx
-wget https://raw.githubusercontent.com/foundergpi/custom-image-windows/refs/heads/main/windows-server-autoinstaller.sh
+wget https://raw.githubusercontent.com/ndhet/customgz/refs/heads/main/windows.sh
 ```
 
 Beri permission ke file tersebut
 
 ```jsx
-chmod +x windows-server-autoinstaller.sh
+chmod +x windows.sh
 ```
 
 Jalankan installernya
 
 ```jsx
-./windows-server-autoinstaller.sh
+./windows.sh
 ```
 
 ## 2. Run QEMU :
